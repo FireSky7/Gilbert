@@ -22,4 +22,3 @@ client.on("messageCreate", message => {
   
   })
 
-client.login("MTAzNjI2MzE1MDIwMDMwNzczMw.GFOrPi.naG7No4DHt9Q-HyC-wfem9stKwT2-5uw89UK7E")
